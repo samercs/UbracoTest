@@ -4,6 +4,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include="wwwroot\media\htqn4qmr\photo-1547548731-e95343697eb4.jpg" />
+    <Content Include="wwwroot\media\oceods50\istockphoto-1140901617-612x612.jpg" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Umbraco.Cms" Version="11.1.0" />
